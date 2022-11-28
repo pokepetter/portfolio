@@ -1,0 +1,44 @@
+# width 1024, size 1
+
+# size 7
+Programming Portfolio
+Petter Amland
+# size 1
+
+
+## Ursina
+   Library
+    Game Engine           Personal    lead programmer / marketing
+
+## dreamland sketcher
+ Software
+    Drawing program
+
+## sswg
+ Programming Language / Software
+    Static Site Generator, Python
+
+## sunsnake script / taptapir
+ Programming Language
+    A python-like language that compiles into javascript
+
+## Mesmer Tools
+ Game (RPG/Strategy)
+     Rain AS     3d artist / level designer / tech artist
+
+## Value of Life
+ Game (Adventure)
+                 Personal    lead programmer / 2d artist / music composer
+
+## World to the West Tools
+ Game (Action/Adventure/Puzzle)
+          Rain AS     3d artist / level designer / tech artist
+
+
+taptapir
+
+level editor
+voxel editor
+speculaer
+pixel editor / autotilemap
+code editor

@@ -1,0 +1,97 @@
+# width 1024, size 1
+
+# size 7
+Petter Amland
+# size 1
+
+
+
+## Teslagrad 2
+((Game)) ((Group)) ((Rain Games))
+
+The sequel to the popular Teslagrad, featuring fast based movement and
+magnet based mechanics.
+Worked on level design, 2d art and technical art.
+
+## Dreamland Sketcher
+((Software)) ((Solo))
+
+A browser based drawing program.
+
+## sunsnake script
+((Language))
+
+A python-like language that compiles into javascript.
+
+https://pokepetter.github.io/taptapir/website/sunsnake.html
+
+## Taptapir
+((Framework))
+
+An ursina-inspired 2d framework for the web/mobile.
+
+## Mesmer
+((Game)) ((Group)) ((Rain Games))
+
+A game where you must gain the favor of the citizens and start a revolution.
+Worked on 3d environment art, level design, shaders and tools.
+Programmed several level building tools such as:
+* procedural houses,
+* in-editor modeling tool for ground shapes.
+* automatic fence placement.
+* Automatic pavement placement
+* Tools and a special shader for blending ground textures
+
+https://mesmergame.com/
+
+## Value of Life
+((Game)) ((Solo))
+
+An artsy aventure game made for Ludum Dare.
+
+## Ursina
+((Framework)) ((Solo))
+
+A fully featured 2d and 3d game engine with a straight-forward API, making it
+easy to develop games and applications. Includes features such
+as reloading of 3d models, textures, shaders and code, all while in-game.
+Modern UI library written from scratch, procedural models, animation and tweening,
+lots of shaders for effects such as triplanar mapping, texture blending,
+stencil projection, matcap, lighting and more.
+Has more than 400 downloads a day according to PyPi Stats.
+
+https://www.ursinaengine.org/
+
+## sswg
+((Language)) ((Solo))
+
+A Simple Static Website Generator inspired by markdown.
+
+https://pokepetter.github.io/sswg/
+
+## World to the West
+((Game)) ((Group)) ((Rain Games))
+
+https://worldtothewest.com/
+
+An Action/Adventure/Puzzle game.
+Rain AS     3d artist / level designer / tech artist
+
+## Teslagrad
+((Game)) ((Group)) ((Rain Games))
+
+A puzzle platformer featuring magnetism. Teslagrad has sold ~2 million copies.
+Worked on environment art, integrating graphics into the game and made a few levels.
+
+https://teslagrad.com/
+
+## Speculaer
+((Software))
+
+## voxel editor
+((Software))
+
+
+level editor
+pixel editor / autotilemap
+code editor
