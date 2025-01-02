@@ -5,18 +5,21 @@ Programming Portfolio
 Petter Amland
 # size 1
 
+## 
+
 
 ## Ursina
    Library
     Game Engine           Personal    lead programmer / marketing
 
-## dreamland sketcher
+## otosopp
  Software
     Drawing program
 
 ## sswg
  Programming Language / Software
     Static Site Generator, Python
+    # image 
 
 ## sunsnake script / taptapir
  Programming Language
@@ -38,7 +41,34 @@ Petter Amland
 taptapir
 
 level editor
-voxel editor
-speculaer
+voroterra
 pixel editor / autotilemap
-code editor
+
+
+rain:
+    world to the west: level tool, water edge
+    mesmer: pokeshape+fences, autohouse, meshpoke, auto pavement
+    teslagrad 2: some gameplay programming, autoline
+    knuckle jet level editor
+
+tui and dev tools:
+    gitpoke: git text user interface (TUI)
+    pokeformance: python profiling tool
+
+sunsnake: programming language
+    taptapir: mobile/web game/app framework
+    otosopp: drawing program (uses taptapir and web browser technology)
+    sswg: markdown inspired language for making statically generated websites.
+
+ursina:
+    ursina engine
+    ursina api reference: analyzes the code base and makes a website
+    ursfx: bfxr inspired sound effect generation tool
+
+hemisolus: rpg made in ursina
+voroterra: hemisolus' voxel based level editor
+~hemisyntra
+speculaer?
+bokfall: wip rpg
+estia: wip rpg
+~ amvol: wip Digital Audio Workstation (DAW)
